@@ -13,7 +13,7 @@ function unbiggie_size(option){
 //Question 3
 //return true if the input is biggie-sized, otherwise return false
 function is_biggie_size(option){
-    return (option >= 5 && option <= 8) ? true : false;
+    return option >= 5 && option <= 8;
 }
 
 //Question 4
@@ -36,7 +36,7 @@ new order which contains the contents of the old order and
 the new combo
 */
 function add_to_order(order,combo){
-    return (10 * order + combo);
+    return 10 * order + combo;
 }
 
 //Question 7
