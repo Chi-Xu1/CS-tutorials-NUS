@@ -34,6 +34,8 @@ contains a valid combination to make up x. A combination
 may appear more than once, since it may be using different coins of 
 the same denomination.
 */
+const lst = list(4, 2, 1, 3);
+display_list(subsets(lst));
 function makeup_amount(x, coins) {
     if (x === 0) {
         return list(null);
@@ -57,3 +59,13 @@ display_list(makeup_amount(22, list(1, 10, 5, 20, 1, 5, 1, 50)));
 // Result: list(list(20, 1, 1), list(10, 5, 1, 5, 1), list(1, 20, 1),
 // list(1, 20, 1), list(1, 10, 5, 5, 1),
 // list(1, 10, 5, 1, 5))
+
+//S6 Q2 in class 
+function subsets(lst) {
+    return is_null(lst)
+        ? list(null)
+        : is_null(tail(lst))
+            ? list(null, list(head(lst)))
+            : append(map(x => append(list(head(lst)), x), subsets(tail(lst))), 
+                subsets(tail(lst)));
+}
