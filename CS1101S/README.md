@@ -1,3 +1,3 @@
 # CS1101S Programming Methodology I
 
-coding in Source
+The programs are written in Source, a sublanguage of javascript.
