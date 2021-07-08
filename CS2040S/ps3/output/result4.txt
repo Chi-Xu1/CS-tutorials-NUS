@@ -1,0 +1,120 @@
+**Size: 100**
+**Increasing order array**
+SorterA's run time: 0.001323
+SorterB's run time: 0.000031
+SorterC's run time: 0.000229
+SorterD's run time: 0.000140
+SorterE's run time: 0.000368
+SorterF's run time: 0.000122
+**Size: 1000**
+**Increasing order array**
+SorterA's run time: 0.016431
+SorterB's run time: 0.000086
+SorterC's run time: 0.001334
+SorterD's run time: 0.003400
+SorterE's run time: 0.005177
+SorterF's run time: 0.000977
+**Size: 10000**
+**Increasing order array**
+SorterA's run time: 0.156691
+SorterB's run time: 0.000210
+SorterC's run time: 0.028251
+SorterD's run time: 0.109786
+SorterE's run time: 0.037743
+SorterF's run time: 0.005639
+**Size: 100**
+**Decreasing order array**
+SorterA's run time: 0.000689
+SorterB's run time: 0.000190
+SorterC's run time: 0.000029
+SorterD's run time: 0.000016
+SorterE's run time: 0.000220
+SorterF's run time: 0.005526
+**Size: 1000**
+**Decreasing order array**
+SorterA's run time: 0.009870
+SorterB's run time: 0.004912
+SorterC's run time: 0.000280
+SorterD's run time: 0.001112
+SorterE's run time: 0.002981
+SorterF's run time: 0.584942
+**Size: 10000**
+**Decreasing order array**
+SorterA's run time: 0.121850
+SorterB's run time: 0.562103
+SorterC's run time: 0.003305
+SorterD's run time: 0.117703
+SorterE's run time: 0.040977
+SorterF's run time: 56.281758
+**Size: 100**
+**Random order array**
+SorterA's run time: 0.000732
+SorterB's run time: 0.000030
+SorterC's run time: 0.000029
+SorterD's run time: 0.000017
+SorterE's run time: 0.000341
+SorterF's run time: 0.005338
+**Size: 1000**
+**Random order array**
+SorterA's run time: 0.009711
+SorterB's run time: 0.002509
+SorterC's run time: 0.000310
+SorterD's run time: 0.001032
+SorterE's run time: 0.005026
+SorterF's run time: 0.555306
+**Size: 10000**
+**Random order array**
+SorterA's run time: 0.124157
+SorterB's run time: 0.266500
+SorterC's run time: 0.003783
+SorterD's run time: 0.130573
+SorterE's run time: 0.070566
+SorterF's run time: 54.336720
+**Size: 100**
+**Homogeneous array**
+SorterA's run time: 0.000059
+SorterB's run time: 0.000001
+SorterC's run time: 0.000003
+SorterD's run time: 0.000013
+SorterE's run time: 0.000201
+SorterF's run time: 0.000055
+**Size: 1000**
+**Homogeneous array**
+SorterA's run time: 0.000573
+SorterB's run time: 0.000008
+SorterC's run time: 0.000015
+SorterD's run time: 0.001058
+SorterE's run time: 0.002913
+SorterF's run time: 0.000540
+**Size: 10000**
+**Homogeneous array**
+SorterA's run time: 0.005635
+SorterB's run time: 0.000077
+SorterC's run time: 0.000146
+SorterD's run time: 0.110182
+SorterE's run time: 0.037727
+SorterF's run time: 0.005553
+**Size: 100**
+**Nearly sorted increasing array**
+SorterA's run time: 0.000700
+SorterB's run time: 0.000002
+SorterC's run time: 0.000025
+SorterD's run time: 0.000012
+SorterE's run time: 0.000195
+SorterF's run time: 0.005454
+**Size: 1000**
+**Nearly sorted increasing array**
+SorterA's run time: 0.009498
+SorterB's run time: 0.000018
+SorterC's run time: 0.000271
+SorterD's run time: 0.000965
+SorterE's run time: 0.002905
+SorterF's run time: 0.560528
+**Size: 10000**
+**Nearly sorted increasing array**
+SorterA's run time: 0.122637
+SorterB's run time: 0.000184
+SorterC's run time: 0.003270
+SorterD's run time: 0.110133
+SorterE's run time: 0.037593
+SorterF's run time: 55.311000
